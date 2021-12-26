@@ -47,7 +47,7 @@ console.log('Added', supplyChanges[x], 'parts')
 
 }
   }
-}
+} 
 
 // STRETCH GOALS
 console.log('---  Stretch Goals  ---');
