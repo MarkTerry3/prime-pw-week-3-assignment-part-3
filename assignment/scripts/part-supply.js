@@ -92,7 +92,7 @@ console.log('9. Filling boxes with a "while" loop');
 //  parts-=7;
 //}
 // This file wont open up on my computer anymore, I originally forgot to do parts-=7;
-// and accidentally had it going in a infinite loop
+// and accidentally had it going in a infinite loop i think???
 
 
 
