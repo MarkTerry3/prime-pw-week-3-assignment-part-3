@@ -39,7 +39,7 @@ console.log('6. Showing supplyChanges...');
 
 let x = supplyChanges;
 
-for (let x = 0; x < array.length; x++) {
+for (let x = 0; x < supplyChanges.length; x++) {
   if (supplyChanges[x] > 0) {
     console.log('Added', supplyChanges[x], 'parts');
   }
