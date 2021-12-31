@@ -96,24 +96,5 @@ while (box<parts) {
   console.log(boxFilled, 'Boxes Filled');
   parts-=7;
 }
-
 ///^^^^^^^^^^^^^Im proud of this one, I had a eureka moment when my brain stopped being
-// so foggy and I finally figured it out lol.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-////////////////
+// so foggy and I finally figured it out lol.   :)
