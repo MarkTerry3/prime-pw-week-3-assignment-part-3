@@ -46,8 +46,8 @@ for (let x = 0; x < supplyChanges.length; x++) {
   if (x === 0) {
     console.log('No Change');
   }
-  if (x === -6) {
-    console.log('Removed', supplyChanges[x], 'Parts');
+  if (supplyChanges[x] === -6) {
+    console.log('Removed', supplyChanges[2], 'Parts');
   }
 }
 
