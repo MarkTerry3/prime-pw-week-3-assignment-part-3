@@ -85,16 +85,33 @@ for (var i = 0; i < supplyChanges.length; i++) {
 //    Then log how many boxes were filled, and how many parts are left over.
 console.log('9. Filling boxes with a "while" loop');
 
-//let parts = 572;
-//const box = 7;
+let parts = 572;
+const box = 7;
+let boxFilled =0;
 
-//while (box<parts) {
-//  let filled = parts-box;
-//  console.log(filled);
-//  parts-=7;
-//}
-// This file wont open up on my computer anymore, I originally forgot to do parts-=7;
-// and accidentally had it going in a infinite loop i think???
+while (box<parts) {
+  let filled = parts-box;
+  console.log('Parts left', filled);
+  boxFilled++;
+  console.log(boxFilled, 'Boxes Filled');
+  parts-=7;
+}
+
+///^^^^^^^^^^^^^Im proud of this one, I had a eureka moment when my brain stopped being
+// so foggy and I finally figured it out lol.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
